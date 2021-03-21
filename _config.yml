@@ -2,7 +2,7 @@ title: GMU-DSCS
 description: 
   
 baseurl: /DSCS
-# the scheme can be any HEX code like "#00aa55"
+url: "https://gmu-dscs.github.io/"
 
 sass:
   sass_dir: /assets/css/_sass
