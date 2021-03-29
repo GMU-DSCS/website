@@ -29,12 +29,30 @@ footer{
 }
 
 .bg-primary{
+    background: url(../images/background2.jpg);
+    background-attachment: fixed;
+}
+
+.bg-secondary{
     background: url(../images/grid_background.png);
     background-attachment: fixed;
 }
 
 .padding {
-    padding-bottom: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.jumbotron-portfolio{
+    border-radius: 0;
+    padding: 3rem 0 2rem;
+}
+
+h1.heading{
+    padding-bottom: 1.9rem;
+}
+
+.portfolio img{
+    max-width: 100%;
 }
 
 .welcome {
