@@ -3,7 +3,7 @@
 html, body{
     height: 100%;
     width: 100%;
-    font-family: sans-serif;
+    font-family: 'Lato', sans-serif;;
     color: #232323;
 }
 
@@ -39,7 +39,7 @@ footer{
 }
 
 .padding {
-    padding-bottom: 0.5rem;
+    padding-bottom: 1rem;
 }
 
 .jumbotron-portfolio{
@@ -49,6 +49,7 @@ footer{
 
 h1.heading{
     padding-bottom: 1.9rem;
+    padding-top: 0rem;
 }
 
 .portfolio img{
